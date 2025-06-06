@@ -1,1 +1,1 @@
-# alu-higher_level_programming
+This project is about python
